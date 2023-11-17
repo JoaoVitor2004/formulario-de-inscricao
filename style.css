@@ -100,9 +100,23 @@ body {
 
 
 
+@media (max-width: 882px) {
+    .conteudo-principal {
+        flex-direction: row;
+        gap: 0;
+    }
+    .form {
+        width: 100%;
+    }
+    .formulario h2 {
+        width: 100%;
+    }
+    .secao-textos h1 {
+        font-size: 6rem;
+    }
+}
 
-
-@media (max-width: 450px) {
+@media (max-width: 745px) {
 
     .conteudo-principal {
         flex-direction: column;
