@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;0,800;1,600;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -26,23 +28,26 @@ body {
     align-items: center;
     justify-content: center;
     gap: 32px;
-    margin-top: 8rem;
+    margin-top: 12rem;
     position: relative;
     z-index: 2;
 }
 
 .secao-textos h1 {
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
     font-size: 4rem;
-    font-family: var(--fonte-principal);
+    font-family: 'poppins',Verdana, Geneva, Tahoma, sans-serif;
     color: var(--cor-pirncipal);
 }
 .secao-textos p {
-    font-family: var(--fonte-principal);
+    font-family: 'poppins',Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    opacity: 0.8;
     text-align: left;
     color: var(--cor-pirncipal);
     width: 45rem;
-    line-height: 2rem;
+    line-height: 3rem;
+    font-size: 1.7rem;
 }
 
 
@@ -57,7 +62,7 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
-    background-color: rgba(0, 0, 139, 0.716);
+    background-color: rgba(29, 29, 134, 0.716);
     padding: 1.8rem;
     color: white;
     border-radius: 1rem;
@@ -112,7 +117,7 @@ body {
         width: 100%;
     }
     .secao-textos h1 {
-        font-size: 6rem;
+        font-size: 4rem;
     }
 }
 
