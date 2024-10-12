@@ -8,7 +8,8 @@ Projeto formulário de inscrição estando responsivo a diversos dispositivos, e
 
 ## ⚙️ Acessar o projeto
 
-Precisa copiar está url: <code><a href=''></a></code> e colar na barra de endereço
+Precisa copiar está url: <code><a href='https://projeto-formulario-de-inscricao.vercel.app
+'></a>https://projeto-formulario-de-inscricao.vercel.app</code> e colar na barra de endereço
 
 ## ⚒️ Tecnologias utilizadas
 
